@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1afe97bcb5a1303499ee7110dc1d43ac
+timeCreated: 1509614316
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DK Gamboge
+  fontNames:
+  - DK Gamboge
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2cb69dfe93f914a439f9b35cc380c453, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
